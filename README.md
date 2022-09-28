@@ -1,9 +1,10 @@
 # ** CODING OF BINARY TREES**
 
 ## list of properties of trees
+> created by suzan 
 
 >Keep smiling and work  harder <3
-# Author : sujan
+
 
 1. [pre-order](https://github.com/SuZaN31/Tress-DSA/blob/master/preodr.java)
 
