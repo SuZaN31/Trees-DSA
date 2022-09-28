@@ -3,7 +3,7 @@
 ## list of properties of trees
 
 >Keep smiling and work  harder <3
-###Author : sujan
+# Author : sujan
 
 1. [pre-order](https://github.com/SuZaN31/Tress-DSA/blob/master/preodr.java)
 
