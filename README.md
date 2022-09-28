@@ -13,6 +13,6 @@
 3. [post-order](https://github.com/SuZaN31/Tress-DSA/blob/master/postodr.java)
 4. [level-order](https://github.com/SuZaN31/Tress-DSA/blob/master/lvlodr.java)
 
-5. [countofnodes](https://github.com/SuZaN31/Tress-DSA/blob/master/countofnds.java)
+5. [count,sum and height ofnodes](https://github.com/SuZaN31/Tress-DSA/blob/master/countofnds.java)
 
 6. [rootofnodes](https://github.com/SuZaN31/Tress-DSA/blob/master/TreeDemo.java)
