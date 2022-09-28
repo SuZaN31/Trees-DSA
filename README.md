@@ -5,11 +5,11 @@
 >Keep smiling and work  harder <3
 >Author : sujan
 
-- [pre-order](https://github.com/SuZaN31/Tress-DSA/blob/master/preodr.java)
+1. [pre-order](https://github.com/SuZaN31/Tress-DSA/blob/master/preodr.java)
 
-- [inorder](https://github.com/SuZaN31/Tress-DSA/blob/master/Inordr.java)
+2. [inorder](https://github.com/SuZaN31/Tress-DSA/blob/master/Inordr.java)
 
-- [post-order](https://github.com/SuZaN31/Tress-DSA/blob/master/postodr.java)
-- [level-order](https://github.com/SuZaN31/Tress-DSA/blob/master/lvlodr.java)
+3. [post-order](https://github.com/SuZaN31/Tress-DSA/blob/master/postodr.java)
+4. [level-order](https://github.com/SuZaN31/Tress-DSA/blob/master/lvlodr.java)
 
-- [countofnodes](https://github.com/SuZaN31/Tress-DSA/blob/master/countofnds.java)
+5. [countofnodes](https://github.com/SuZaN31/Tress-DSA/blob/master/countofnds.java)
