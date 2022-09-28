@@ -1,7 +1,7 @@
 # ** CODING OF BINARY TREES**
 
 ## list of properties of trees
-### created by suzan 
+### ** Created by suzan ** :
 
 >Keep smiling and work  harder <3
 
